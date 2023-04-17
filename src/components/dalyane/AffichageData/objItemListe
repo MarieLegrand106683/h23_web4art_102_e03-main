@@ -1,0 +1,1955 @@
+[
+    {
+        "data": {
+            "id": 159929,
+            "objectid": 159929,
+            "objectnumber": "2.2002.159",
+            "accessionyear": 2011,
+            "dated": "1988",
+            "datebegin": 1988,
+            "dateend": 1988,
+            "classification": "Photographs",
+            "classificationid": 17,
+            "medium": null,
+            "technique": "Gelatin silver print",
+            "techniqueid": 123,
+            "period": null,
+            "periodid": null,
+            "century": "20th century",
+            "culture": "American",
+            "style": null,
+            "signed": null,
+            "state": null,
+            "edition": null,
+            "standardreferencenumber": null,
+            "dimensions": "image: 9.9 x 15.5 cm (3 7/8 x 6 1/8 in.)",
+            "copyright": "© Estate of Bruce Cratsley",
+            "creditline": "Harvard Art Museums/Fogg Museum, Transfer from the Carpenter Center for the Visual Arts, Gift of the artist",
+            "department": "Department of Photographs",
+            "division": "Modern and Contemporary Art",
+            "contact": "am_moderncontemporary@harvard.edu",
+            "description": null,
+            "provenance": null,
+            "commentary": null,
+            "labeltext": null,
+            "imagecount": 1,
+            "mediacount": 0,
+            "colorcount": 9,
+            "markscount": 0,
+            "peoplecount": 1,
+            "titlescount": 1,
+            "publicationcount": 0,
+            "exhibitioncount": 0,
+            "contextualtextcount": 0,
+            "groupcount": 0,
+            "relatedcount": 0,
+            "totalpageviews": 17,
+            "totaluniquepageviews": 12,
+            "dateoffirstpageview": "2011-10-27",
+            "dateoflastpageview": "2022-09-12",
+            "verificationlevel": 0,
+            "verificationleveldescription": "Unchecked. Object information has not been verified for completeness and has not been vetted",
+            "imagepermissionlevel": 1,
+            "lendingpermissionlevel": 0,
+            "accesslevel": 1,
+            "accessionmethod": "Transfer",
+            "rank": 3969,
+            "url": "https://www.harvardartmuseums.org/collections/object/159929",
+            "lastupdate": "2023-04-14T05:44:38-0400",
+            "colors": [
+                {
+                    "color": "#000000",
+                    "spectrum": "#1eb264",
+                    "hue": "Black",
+                    "percent": 0.5885039370078741,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.13139107611548556,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.11553805774278215,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.05448818897637795,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.03154855643044619,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.025721784776902887,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.02078740157480315,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#323219",
+                    "spectrum": "#3db657",
+                    "hue": "Brown",
+                    "percent": 0.01905511811023622,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#191900",
+                    "spectrum": "#2eb45d",
+                    "hue": "Brown",
+                    "percent": 0.012965879265091863,
+                    "css3": "#000000"
+                }
+            ],
+            "images": [],
+            "primaryimageurl": null,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Canton, New York",
+                    "gender": "male",
+                    "displaydate": "1944 - 1998",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "Bruce Cratsley",
+                    "alphasort": "Cratsley, Bruce",
+                    "name": "Bruce Cratsley",
+                    "personid": 18052,
+                    "deathplace": "New York, New York",
+                    "displayorder": 1
+                }
+            ],
+            "terms": {
+                "century": [
+                    {
+                        "name": "20th century",
+                        "id": 37525815
+                    }
+                ],
+                "culture": [
+                    {
+                        "name": "American",
+                        "id": 37526778
+                    }
+                ]
+            },
+            "titles": [
+                {
+                    "titletype": "Title",
+                    "titleid": 169798,
+                    "displayorder": 1,
+                    "title": "Untitled (arms and book)"
+                }
+            ],
+            "title": "Untitled (arms and book)",
+            "worktypes": [
+                {
+                    "worktypeid": "271",
+                    "worktype": "photograph"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/159929",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "content-length": "3250",
+            "content-type": "application/json; charset=utf-8"
+        },
+        "config": {
+            "transitional": {
+                "silentJSONParsing": true,
+                "forcedJSONParsing": true,
+                "clarifyTimeoutError": false
+            },
+            "adapter": [
+                "xhr",
+                "http"
+            ],
+            "transformRequest": [
+                null
+            ],
+            "transformResponse": [
+                null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+                "Accept": "application/json, text/plain, */*"
+            },
+            "method": "get",
+            "url": "https://api.harvardartmuseums.org/object/159929?apikey=46570eeb-b237-41b5-b920-5a00c8ef6799"
+        },
+        "request": {}
+    },
+    {
+        "data": {
+            "id": 318963,
+            "objectid": 318963,
+            "objectnumber": "2007.98",
+            "accessionyear": 2007,
+            "dated": "2005",
+            "datebegin": 2005,
+            "dateend": 2005,
+            "classification": "Sculpture",
+            "classificationid": 30,
+            "medium": "Neon",
+            "technique": null,
+            "techniqueid": null,
+            "period": null,
+            "periodid": null,
+            "century": "21st century",
+            "culture": "American",
+            "style": null,
+            "signed": "no signature",
+            "state": null,
+            "edition": null,
+            "standardreferencenumber": null,
+            "dimensions": "13 x 108 x 6.4 cm (5 1/8 x 42 1/2 x 2 1/2 in.)",
+            "copyright": "© Glenn Ligon",
+            "creditline": "Harvard Art Museums/Fogg Museum, The Jorie Marshall Waterman '96 and Gwendolyn Dunaway Waterman '92 Fund",
+            "department": "Department of Modern & Contemporary Art",
+            "division": "Modern and Contemporary Art",
+            "contact": "am_moderncontemporary@harvard.edu",
+            "description": "Two pieces of neon light sculpture spell out the words, negro sunshine. Both pieces are connected to each other with electrical wire. Electrical wire hangs 59 inches from the bottom of the neon tubing ending with a transformer that sits on the floor.",
+            "provenance": "[Regen Projects, Los Angeles, California] sold; to Harvard University Art Museums, 2007.",
+            "commentary": null,
+            "labeltext": null,
+            "imagecount": 1,
+            "mediacount": 0,
+            "colorcount": 8,
+            "markscount": 0,
+            "peoplecount": 1,
+            "titlescount": 1,
+            "publicationcount": 3,
+            "exhibitioncount": 2,
+            "contextualtextcount": 0,
+            "groupcount": 1,
+            "relatedcount": 0,
+            "totalpageviews": 1516,
+            "totaluniquepageviews": 1254,
+            "dateoffirstpageview": "2009-06-03",
+            "dateoflastpageview": "2023-04-09",
+            "verificationlevel": 3,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "imagepermissionlevel": 1,
+            "lendingpermissionlevel": 0,
+            "accesslevel": 1,
+            "accessionmethod": "Purchase",
+            "rank": 122,
+            "url": "https://www.harvardartmuseums.org/collections/object/318963",
+            "lastupdate": "2023-04-14T05:56:33-0400",
+            "colors": [
+                {
+                    "color": "#afafaf",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.4443097643097643,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#c8c8c8",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.39750841750841753,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.05643097643097643,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#000000",
+                    "spectrum": "#1eb264",
+                    "hue": "Black",
+                    "percent": 0.04781144781144781,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.027946127946127945,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.013131313131313131,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.008821548821548822,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#191900",
+                    "spectrum": "#2eb45d",
+                    "hue": "Brown",
+                    "percent": 0.00404040404040404,
+                    "css3": "#000000"
+                }
+            ],
+            "exhibitions": [
+                {
+                    "begindate": "2007-06-23",
+                    "enddate": "2008-01-31",
+                    "citation": "<em>Contemporary Art from the Harvard University Art Museums Collections</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 06/23/2007 - 01/31/2008",
+                    "exhibitionid": 3459,
+                    "title": "Contemporary Art from the Harvard University Art Museums Collections"
+                },
+                {
+                    "begindate": "2011-05-03",
+                    "enddate": "2013-06-01",
+                    "citation": "<em>Re-View: European and American Art Since 1900</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 05/03/2011 - 06/01/2013",
+                    "exhibitionid": 4215,
+                    "title": "Re-View: European and American Art Since 1900"
+                }
+            ],
+            "groupings": [
+                {
+                    "groupid": 2039923,
+                    "name": "Collection Highlights"
+                }
+            ],
+            "images": [],
+            "primaryimageurl": null,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Bronx, NY",
+                    "gender": "male",
+                    "displaydate": "born 1960",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "Glenn Ligon",
+                    "alphasort": "Ligon, Glenn",
+                    "name": "Glenn Ligon",
+                    "personid": 33623,
+                    "deathplace": null,
+                    "displayorder": 1
+                }
+            ],
+            "places": [
+                {
+                    "displayname": "North America, United States, New York, New York City",
+                    "confidence": null,
+                    "placeid": 2028444,
+                    "type": "Creation Place"
+                }
+            ],
+            "publications": [
+                {
+                    "publicationplace": null,
+                    "volumetitle": "Art Journal",
+                    "citation": "Lauri Firstenberg, Neo-Archival and Textual Modes of Production: An Interview with Glenn Ligon, <em>Art Journal</em> (Spring 2001), Vol. 60 No. 1",
+                    "publicationyear": 2001,
+                    "citationremarks": null,
+                    "pagenumbers": null,
+                    "format": "Article/Essay",
+                    "publicationid": 16963,
+                    "title": "Neo-Archival and Textual Modes of Production: An Interview with Glenn Ligon",
+                    "volumenumber": "Vol. 60 No. 1",
+                    "publicationdate": "Spring 2001"
+                },
+                {
+                    "publicationplace": "New York",
+                    "volumetitle": "Artforum",
+                    "citation": "Richard Meyer, Light It Up, or How Glenn Ligon Got Over, <em>Artforum</em> (New York, May 2006)",
+                    "publicationyear": 2006,
+                    "citationremarks": "An image of a similar work entitled  \"Warm Broad Glow,\" 2005 is illustrated.",
+                    "pagenumbers": null,
+                    "format": "Article/Essay",
+                    "publicationid": 16962,
+                    "title": "Light It Up, or How Glenn Ligon Got Over",
+                    "volumenumber": null,
+                    "publicationdate": "May 2006"
+                },
+                {
+                    "publicationplace": "Cambridge",
+                    "volumetitle": null,
+                    "citation": "Thomas W. Lentz, ed., <em>Harvard University Art Museums Annual Report 2006-7</em>, Harvard University Art Museums (Cambridge, 2008)",
+                    "publicationyear": 2008,
+                    "citationremarks": null,
+                    "pagenumbers": "p. 23, ill.",
+                    "format": "Book",
+                    "publicationid": 16647,
+                    "title": "Harvard University Art Museums Annual Report 2006-7",
+                    "volumenumber": null,
+                    "publicationdate": "2008"
+                }
+            ],
+            "terms": {
+                "century": [
+                    {
+                        "name": "21st century",
+                        "id": 37525824
+                    }
+                ],
+                "culture": [
+                    {
+                        "name": "American",
+                        "id": 37526778
+                    }
+                ],
+                "medium": [
+                    {
+                        "name": "Neon",
+                        "id": 2038676
+                    }
+                ],
+                "place": [
+                    {
+                        "name": "North America",
+                        "id": 2028212
+                    },
+                    {
+                        "name": "United States",
+                        "id": 2028213
+                    },
+                    {
+                        "name": "New York",
+                        "id": 2028439
+                    },
+                    {
+                        "name": "New York City",
+                        "id": 2028444
+                    }
+                ]
+            },
+            "titles": [
+                {
+                    "titletype": "Title",
+                    "titleid": 711425,
+                    "displayorder": 1,
+                    "title": "Untitled (negro sunshine)"
+                }
+            ],
+            "title": "Untitled (negro sunshine)",
+            "worktypes": [
+                {
+                    "worktypeid": "332",
+                    "worktype": "sculpture"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/318963",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "content-length": "5791",
+            "content-type": "application/json; charset=utf-8"
+        },
+        "config": {
+            "transitional": {
+                "silentJSONParsing": true,
+                "forcedJSONParsing": true,
+                "clarifyTimeoutError": false
+            },
+            "adapter": [
+                "xhr",
+                "http"
+            ],
+            "transformRequest": [
+                null
+            ],
+            "transformResponse": [
+                null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+                "Accept": "application/json, text/plain, */*"
+            },
+            "method": "get",
+            "url": "https://api.harvardartmuseums.org/object/318963?apikey=46570eeb-b237-41b5-b920-5a00c8ef6799"
+        },
+        "request": {}
+    },
+    {
+        "data": {
+            "id": 271777,
+            "objectid": 271777,
+            "objectnumber": "M13022",
+            "accessionyear": 1955,
+            "dated": "1906",
+            "datebegin": 1906,
+            "dateend": 1906,
+            "classification": "Prints",
+            "classificationid": 23,
+            "medium": null,
+            "technique": "Woodcut",
+            "techniqueid": 194,
+            "period": null,
+            "periodid": null,
+            "century": "20th century",
+            "culture": "French",
+            "style": null,
+            "signed": null,
+            "state": null,
+            "edition": null,
+            "standardreferencenumber": "D.-M. 317",
+            "dimensions": "image: 47.1 x 38.3 cm (18 9/16 x 15 1/16 in.)",
+            "copyright": "© Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "creditline": "Harvard Art Museums/Fogg Museum, Francis H. Burr Memorial and Alpheus Hyatt Funds",
+            "department": "Department of Prints",
+            "division": "Modern and Contemporary Art",
+            "contact": "am_moderncontemporary@harvard.edu",
+            "description": null,
+            "provenance": "[Peter H. Deitsch], sold; to Fogg Art Museum, March 22, 1955.",
+            "commentary": null,
+            "labeltext": null,
+            "imagecount": 1,
+            "mediacount": 0,
+            "colorcount": 8,
+            "markscount": 0,
+            "peoplecount": 1,
+            "titlescount": 2,
+            "publicationcount": 3,
+            "exhibitioncount": 3,
+            "contextualtextcount": 0,
+            "groupcount": 1,
+            "relatedcount": 0,
+            "totalpageviews": 1224,
+            "totaluniquepageviews": 1007,
+            "dateoffirstpageview": "2009-06-30",
+            "dateoflastpageview": "2023-04-11",
+            "verificationlevel": 3,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "imagepermissionlevel": 1,
+            "lendingpermissionlevel": 0,
+            "accesslevel": 1,
+            "accessionmethod": "Purchase",
+            "rank": 191,
+            "url": "https://www.harvardartmuseums.org/collections/object/271777",
+            "lastupdate": "2023-04-14T05:53:07-0400",
+            "colors": [
+                {
+                    "color": "#e1c8c8",
+                    "spectrum": "#c15689",
+                    "hue": "Orange",
+                    "percent": 0.38122222222222224,
+                    "css3": "#d8bfd8"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.30144444444444446,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.060055555555555556,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.058333333333333334,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.05605555555555555,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.051055555555555555,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.051055555555555555,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.04077777777777778,
+                    "css3": "#2f4f4f"
+                }
+            ],
+            "exhibitions": [
+                {
+                    "begindate": "2008-11-20",
+                    "enddate": "2009-02-08",
+                    "citation": "<em>HAA 10 Survey Course (S421): The Western Tradition: Art Since the Renaissance (Fall 08 Rotation 3)</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 11/20/2008 - 02/08/2009",
+                    "exhibitionid": 3813,
+                    "title": "HAA 10 Survey Course (S421): The Western Tradition: Art Since the Renaissance (Fall 08 Rotation 3)"
+                },
+                {
+                    "begindate": "2009-11-13",
+                    "enddate": "2010-01-17",
+                    "citation": "<em>HAA 10 Survey Course (S421): The Western Tradition: Art Since the Renaissance (Fall 09 Rotation 3)</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 11/13/2009 - 01/17/2010",
+                    "exhibitionid": 3877,
+                    "title": "HAA 10 Survey Course (S421): The Western Tradition: Art Since the Renaissance (Fall 09 Rotation 3)"
+                },
+                {
+                    "begindate": "2010-11-12",
+                    "enddate": "2011-01-15",
+                    "citation": "<em>HAA 10 Survey Course (S421): The Western Tradition: Art Since the Renaissance (Fall 10 Rotation 3)</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 11/12/2010 - 01/15/2011",
+                    "exhibitionid": 4162,
+                    "title": "HAA 10 Survey Course (S421): The Western Tradition: Art Since the Renaissance (Fall 10 Rotation 3)"
+                }
+            ],
+            "groupings": [
+                {
+                    "groupid": 2039923,
+                    "name": "Collection Highlights"
+                }
+            ],
+            "images": [],
+            "primaryimageurl": null,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Cateau-Cambresis, France",
+                    "gender": "male",
+                    "displaydate": "1869 - 1954",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Henri Matisse",
+                    "alphasort": "Matisse, Henri",
+                    "name": "Henri Matisse",
+                    "personid": 27494,
+                    "deathplace": "Nice, France",
+                    "displayorder": 1
+                }
+            ],
+            "publications": [
+                {
+                    "publicationplace": "New York, NY and Cambridge, MA",
+                    "volumetitle": null,
+                    "citation": "Caroline A. Jones, Modern Art at Harvard: The Formation of the Nineteenth- and Twentieth-Century Collections of the Harvard University Art Museums (New York, NY and Cambridge, MA, Harvard University Art Museums and Abbeville Press, 1985). With an essay by John Coolidge and a preface by John M. Rosenfield.  To accompany the inaugural exhibition at the Sackler Museum, Oct 21 1985 - Jan 5 1986",
+                    "publicationyear": 1985,
+                    "citationremarks": null,
+                    "pagenumbers": "p. 40, fig. 26, ill. (b/w)",
+                    "format": "Manuscript",
+                    "publicationid": 2697,
+                    "title": "Modern Art at Harvard: The Formation of the Nineteenth- and Twentieth-Century Collections of the Harvard University Art Museums",
+                    "volumenumber": null,
+                    "publicationdate": "1985"
+                },
+                {
+                    "publicationplace": "Madison, WI",
+                    "volumetitle": null,
+                    "citation": "Linda C. Hults, <em>The Print in the Western World: An Introductory History</em>, University of Wisconsin Press (Madison, WI, 1996)",
+                    "publicationyear": 1996,
+                    "citationremarks": null,
+                    "pagenumbers": "p. 643, fig. 11.1",
+                    "format": "Book",
+                    "publicationid": 11199,
+                    "title": "The Print in the Western World: An Introductory History",
+                    "volumenumber": null,
+                    "publicationdate": "1996"
+                },
+                {
+                    "publicationplace": "Cambridge",
+                    "volumetitle": null,
+                    "citation": "Stephan Wolohojian and Alvin L. Clark, Jr., <em>Harvard Art Museum/ Handbook</em>, ed. Stephan Wolohojian, Harvard Art Museum (Cambridge, 2008)",
+                    "publicationyear": 2008,
+                    "citationremarks": null,
+                    "pagenumbers": "p. 183, ill.",
+                    "format": "Book",
+                    "publicationid": 16759,
+                    "title": "Harvard Art Museum/ Handbook",
+                    "volumenumber": null,
+                    "publicationdate": "2008"
+                }
+            ],
+            "terms": {
+                "century": [
+                    {
+                        "name": "20th century",
+                        "id": 37525815
+                    }
+                ],
+                "culture": [
+                    {
+                        "name": "French",
+                        "id": 37527426
+                    }
+                ]
+            },
+            "titles": [
+                {
+                    "titletype": "Title",
+                    "titleid": 682174,
+                    "displayorder": 1,
+                    "title": "The Large Woodcut Nude"
+                },
+                {
+                    "titletype": "Original Language Title",
+                    "titleid": 331589,
+                    "displayorder": 2,
+                    "title": "\"Le Grand Bois\""
+                }
+            ],
+            "title": "The Large Woodcut Nude",
+            "worktypes": [
+                {
+                    "worktypeid": "290",
+                    "worktype": "print"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/271777",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "content-length": "6129",
+            "content-type": "application/json; charset=utf-8"
+        },
+        "config": {
+            "transitional": {
+                "silentJSONParsing": true,
+                "forcedJSONParsing": true,
+                "clarifyTimeoutError": false
+            },
+            "adapter": [
+                "xhr",
+                "http"
+            ],
+            "transformRequest": [
+                null
+            ],
+            "transformResponse": [
+                null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+                "Accept": "application/json, text/plain, */*"
+            },
+            "method": "get",
+            "url": "https://api.harvardartmuseums.org/object/271777?apikey=46570eeb-b237-41b5-b920-5a00c8ef6799"
+        },
+        "request": {}
+    },
+    {
+        "data": {
+            "id": 219609,
+            "objectid": 219609,
+            "objectnumber": "1923.60",
+            "accessionyear": 1923,
+            "dated": "c. 130-150 CE",
+            "datebegin": 125,
+            "dateend": 155,
+            "classification": "Paintings",
+            "classificationid": 26,
+            "medium": "Binder: Beeswax\r\nPigments: Lead white, red and yellow ochres, carbon black, indigo, madder lake, green earth (celadonite), natrojarosite\r\nSupport: Native Egyptian sycomore fig (Ficus sycomorus)",
+            "technique": "Painted",
+            "techniqueid": 2125,
+            "period": "Roman Imperial period, Middle",
+            "periodid": 632,
+            "century": "2nd century CE",
+            "culture": "Egyptian",
+            "style": null,
+            "signed": null,
+            "state": null,
+            "edition": null,
+            "standardreferencenumber": null,
+            "dimensions": "35.3 × 22.5 × 2 cm (13 7/8 × 8 7/8 × 13/16 in.)",
+            "copyright": null,
+            "creditline": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Dr. Denman W. Ross",
+            "department": "Department of Ancient and Byzantine Art & Numismatics",
+            "division": "Asian and Mediterranean Art",
+            "contact": "am_asianmediterranean@harvard.edu",
+            "description": "This highly naturalistic mummy portrait depicts a young woman with deep brown eyes, arched brows, and a long pointed nose. Her dark hair is pulled back with only a row of small curls framing her forehead. Her jewelry is simple: small gold double-hooped earrings, each with a pendant pearl. She wears a deep purple tunic with green shoulder bands and maroon clasps all over a white undergarment, visible only at the neckline. \r\n\r\n\r\n",
+            "provenance": "Denman Waldo Ross, Cambridge, MA, (by 1923), gift; to Fogg Art Museum, 1923.",
+            "commentary": "Wooden panel portraits such as this would have been set into mummy wrappings, covering the face of the deceased. The images may or may not have been painted before the sitter's death and were often idealized representations. The shape of this portrait, which is trimmed to follow the contour of the head and shoulders, is consistent with panels that come from Antinoopolis, a city founded by the Emperor Hadrian [1].\r\n\r\n1. For similar panel shape and hairstyle see Louvre inv. P 217. (Zaloscer, fig. 25).",
+            "labeltext": "This portrait can be attributed to the city of Antinoopolis on the Nile because of its characteristic shape, but its subject clearly has more cosmopolitan pretensions: similar hairstyles, clothing, and jewelry can be found in elite portraiture across the Roman Mediterranean.",
+            "imagecount": 2,
+            "mediacount": 1,
+            "colorcount": 10,
+            "markscount": 0,
+            "peoplecount": 0,
+            "titlescount": 1,
+            "publicationcount": 14,
+            "exhibitioncount": 8,
+            "contextualtextcount": 0,
+            "groupcount": 2,
+            "relatedcount": 5,
+            "totalpageviews": 3694,
+            "totaluniquepageviews": 3036,
+            "dateoffirstpageview": "2009-05-19",
+            "dateoflastpageview": "2023-04-12",
+            "verificationlevel": 4,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "imagepermissionlevel": 0,
+            "lendingpermissionlevel": 0,
+            "accesslevel": 1,
+            "accessionmethod": "Gift",
+            "rank": 318,
+            "url": "https://www.harvardartmuseums.org/collections/object/219609",
+            "lastupdate": "2023-04-14T05:49:01-0400",
+            "audio": [
+                {
+                    "duration": 0,
+                    "copyright": "President and Fellows of Harvard College",
+                    "audioid": 492584,
+                    "description": "Visual description by Frances Gallart Marques Frederick Randolph Grace Curatorial Fellow in Ancient Art, Division of Asian and Mediterranean Art. Written August 2018.",
+                    "transcripturl": "http://media.harvardartmuseums.org/audio/alice/mummy-portrait.txt",
+                    "primaryurl": "http://media.harvardartmuseums.org/audio/alice/mummy-portrait.mp3"
+                }
+            ],
+            "colors": [
+                {
+                    "color": "#000000",
+                    "spectrum": "#1eb264",
+                    "hue": "Black",
+                    "percent": 0.44513888888888886,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#321919",
+                    "spectrum": "#3db657",
+                    "hue": "Brown",
+                    "percent": 0.15256944444444445,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.09361111111111112,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#96644b",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.07743055555555556,
+                    "css3": "#a0522d"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.07673611111111112,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#7d4b32",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.041875,
+                    "css3": "#8b4513"
+                },
+                {
+                    "color": "#644b4b",
+                    "spectrum": "#8362aa",
+                    "hue": "Brown",
+                    "percent": 0.03826388888888889,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#af7d4b",
+                    "spectrum": "#e9715f",
+                    "hue": "Yellow",
+                    "percent": 0.03138888888888889,
+                    "css3": "#cd853f"
+                },
+                {
+                    "color": "#c89664",
+                    "spectrum": "#ed7758",
+                    "hue": "Brown",
+                    "percent": 0.024722222222222222,
+                    "css3": "#bdb76b"
+                },
+                {
+                    "color": "#e1af7d",
+                    "spectrum": "#ef7a55",
+                    "hue": "Orange",
+                    "percent": 0.008541666666666666,
+                    "css3": "#deb887"
+                }
+            ],
+            "exhibitions": [
+                {
+                    "begindate": "1999-09-16",
+                    "enddate": "2008-01-20",
+                    "citation": "<em>Roman Gallery Installation (long-term)</em>, Harvard University Art Museums, Cambridge, 09/16/1999 - 01/20/2008",
+                    "exhibitionid": 2778,
+                    "title": "Roman Gallery Installation (long-term)"
+                },
+                {
+                    "begindate": "2002-10-25",
+                    "enddate": "2003-04-28",
+                    "citation": "<em>Byzantine Women and Their World</em>, Harvard University Art Museums, Cambridge, 10/25/2002 - 04/28/2003",
+                    "exhibitionid": 2788,
+                    "title": "Byzantine Women and Their World"
+                },
+                {
+                    "begindate": "2007-09-22",
+                    "enddate": "2008-01-20",
+                    "citation": "<em>Gods in Color: Painted Sculpture of Classical Antiquity</em>, Harvard University Art Museums, Cambridge, 09/22/2007 - 01/20/2008",
+                    "exhibitionid": 3418,
+                    "title": "Gods in Color: Painted Sculpture of Classical Antiquity"
+                },
+                {
+                    "begindate": "2008-07-24",
+                    "enddate": "2008-10-26",
+                    "citation": "<em>Roman Emperor Hadrian</em>, British Museum, London, 07/24/2008 - 10/26/2008",
+                    "exhibitionid": 3501,
+                    "title": "Roman Emperor Hadrian"
+                },
+                {
+                    "begindate": "2012-01-31",
+                    "enddate": "2013-06-01",
+                    "citation": "<em>Ancient to Modern</em>, Harvard Art Museums, Cambridge, 01/31/2012 - 06/01/2013",
+                    "exhibitionid": 4353,
+                    "title": "Ancient to Modern"
+                },
+                {
+                    "begindate": "2014-11-16",
+                    "enddate": "2050-01-01",
+                    "citation": "<em>32Q: 3740 Egyptian</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 06/01/2022",
+                    "exhibitionid": 4468,
+                    "title": "32Q: 3740 Egyptian"
+                },
+                {
+                    "begindate": "2014-11-16",
+                    "enddate": "2050-01-01",
+                    "citation": "<em>32Q: 3620 University Study Gallery</em>, Harvard Art Museums, Cambridge, 01/28/2023 - 05/07/2023",
+                    "exhibitionid": 5435,
+                    "title": "32Q: 3620 University Study Gallery"
+                },
+                {
+                    "begindate": "2022-08-27",
+                    "enddate": "2022-12-30",
+                    "citation": "<em>Funerary Portraits from Roman Egypt: Facing Forward</em>, Harvard Art Museums, Cambridge, 08/27/2022 - 12/30/2022",
+                    "exhibitionid": 6194,
+                    "title": "Funerary Portraits from Roman Egypt: Facing Forward"
+                }
+            ],
+            "gallery": {
+                "begindate": "2023-01-28",
+                "gallerynumber": "3620",
+                "galleryid": 3620,
+                "name": "University Study Gallery",
+                "theme": null,
+                "floor": 3
+            },
+            "groupings": [
+                {
+                    "groupid": 2040174,
+                    "name": "Google Art Project"
+                },
+                {
+                    "groupid": 2039923,
+                    "name": "Collection Highlights"
+                }
+            ],
+            "images": [
+                {
+                    "date": "2002-01-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 56598,
+                    "idsid": 17804324,
+                    "format": "image/jpeg",
+                    "description": "\r\nThe wooden board of this painting follows the general silhouette of the subject, but with a more geometric shape. She has olive-toned skin, dark brown hair, and is wearing a purple stola with vertical green bands over a white undergarment. Her hair is pulled up and back, and row of curls frames her hairline. In each lobe she wears an earring that begins as a golden hoop, transitions into a golden diamond shape with an inset pink stone and terminates in a pearl. She has brown, rounded eyes with heavy lids beneath large eyebrows, a long nose, and small lips.",
+                    "technique": null,
+                    "renditionnumber": "70813",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:70813_dynmc",
+                    "alttext": "Bust portait of a woman with golden earrings.",
+                    "width": 1638,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/17804324",
+                    "height": 2550
+                },
+                {
+                    "date": "2022-08-31",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 531490,
+                    "idsid": 495316730,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "LEG279507",
+                    "displayorder": 2,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG279507",
+                    "alttext": null,
+                    "width": 1913,
+                    "publiccaption": "back detail",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/495316730",
+                    "height": 2550
+                }
+            ],
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:70813_dynmc",
+            "media": [
+                {
+                    "filetype": "Audio File",
+                    "copyright": "President and Fellows of Harvard College",
+                    "thumbnailimageurl": null,
+                    "fileurl": "http://media.harvardartmuseums.org/audio/alice/mummy-portrait.mp3",
+                    "renditionnumber": "AUD0169",
+                    "publiccaption": "Visual description by Frances Gallart Marques Frederick Randolph Grace Curatorial Fellow in Ancient Art, Division of Asian and Mediterranean Art. Written August 2018."
+                }
+            ],
+            "places": [
+                {
+                    "displayname": "Ancient & Byzantine World, Africa, Antinoopolis (Egypt)",
+                    "confidence": null,
+                    "placeid": 2039408,
+                    "type": "Creation Place"
+                }
+            ],
+            "publications": [
+                {
+                    "publicationplace": null,
+                    "volumetitle": "Bulletin of the Fogg Art Museum",
+                    "citation": "Four Fayum Portraits in the Fogg Art Museum, <em>Bulletin of the Fogg Art Museum</em> (1924), II.1",
+                    "publicationyear": 1924,
+                    "citationremarks": "fig. 5",
+                    "pagenumbers": null,
+                    "format": "Article/Essay",
+                    "publicationid": 21477,
+                    "title": "Four Fayum Portraits in the Fogg Art Museum",
+                    "volumenumber": "II.1",
+                    "publicationdate": "1924"
+                },
+                {
+                    "publicationplace": "Greenwich CT, New York and London",
+                    "volumetitle": null,
+                    "citation": "George M. A. Hanfmann, <em>Roman Art: A Modern Survey of the Art of Imperial Rome</em>, New York Graphi Society (Greenwich CT, New York and London, 1964)",
+                    "publicationyear": 1964,
+                    "citationremarks": null,
+                    "pagenumbers": "pg. 306, pl. 46",
+                    "format": "Book",
+                    "publicationid": 5596,
+                    "title": "Roman Art: A Modern Survey of the Art of Imperial Rome",
+                    "volumenumber": null,
+                    "publicationdate": "1964"
+                },
+                {
+                    "publicationplace": "Malibu, CA",
+                    "volumetitle": null,
+                    "citation": "David Thompson, <em>Mummy Portraits in the J. Paul Getty Museum</em>, J. Paul Getty Museum (Malibu, CA, 1982)",
+                    "publicationyear": 1982,
+                    "citationremarks": null,
+                    "pagenumbers": "p. 5, fig. 6",
+                    "format": "Book",
+                    "publicationid": 13657,
+                    "title": "Mummy Portraits in the J. Paul Getty Museum",
+                    "volumenumber": null,
+                    "publicationdate": "1982"
+                },
+                {
+                    "publicationplace": "Milan, Italy",
+                    "volumetitle": null,
+                    "citation": "Rosario Pintaudi, <em>El-Fayyum</em>, F.M. Ricci (Milan, Italy, 1985)",
+                    "publicationyear": 1985,
+                    "citationremarks": null,
+                    "pagenumbers": "pg 95",
+                    "format": "Book",
+                    "publicationid": 7957,
+                    "title": "El-Fayyum",
+                    "volumenumber": null,
+                    "publicationdate": "1985"
+                },
+                {
+                    "publicationplace": "Cambridge and New York",
+                    "volumetitle": null,
+                    "citation": "Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986)",
+                    "publicationyear": 1986,
+                    "citationremarks": null,
+                    "pagenumbers": "p. 116, no. 130, ill.",
+                    "format": "Book",
+                    "publicationid": 9088,
+                    "title": "Harvard University Art Museums: A Guide to the Collections",
+                    "volumenumber": null,
+                    "publicationdate": "1986"
+                },
+                {
+                    "publicationplace": "Boston, MA",
+                    "volumetitle": null,
+                    "citation": "Marvin Perry, <em>Western Civilization: Ideas, Politics & Society</em>, Houghton Mifflin Company (Boston, MA, 1989)",
+                    "publicationyear": 1989,
+                    "citationremarks": null,
+                    "pagenumbers": "p. 135, ill.",
+                    "format": "Book",
+                    "publicationid": 19977,
+                    "title": "Western Civilization: Ideas, Politics & Society",
+                    "volumenumber": null,
+                    "publicationdate": "1989"
+                },
+                {
+                    "publicationplace": "New York, NY",
+                    "volumetitle": null,
+                    "citation": "Euphrosyne Doxiadis, <em>The Mysterious Fayum Portraits: Faces from Middle Egypt</em>, Harry N. Abrams, Inc. (New York, NY, 1995)",
+                    "publicationyear": 1995,
+                    "citationremarks": null,
+                    "pagenumbers": "p.113, fig 85",
+                    "format": "Book",
+                    "publicationid": 13728,
+                    "title": "The Mysterious Fayum Portraits: Faces from Middle Egypt",
+                    "volumenumber": null,
+                    "publicationdate": "1995"
+                },
+                {
+                    "publicationplace": "Cambridge, MA",
+                    "volumetitle": null,
+                    "citation": "James Cuno, Alvin L. Clark, Jr., Ivan Gaskell, and William W. Robinson, <em>Harvard's Art Museums: 100 Years of Collecting</em>, ed. James Cuno, Harvard University Art Museums and Harry N. Abrams, Inc. (Cambridge, MA, 1996)",
+                    "publicationyear": 1996,
+                    "citationremarks": null,
+                    "pagenumbers": "p. 116-117, ill.",
+                    "format": "Book",
+                    "publicationid": 11699,
+                    "title": "Harvard's Art Museums: 100 Years of Collecting",
+                    "volumenumber": null,
+                    "publicationdate": "1996"
+                },
+                {
+                    "publicationplace": "Alameda, Calif. : Digital Arts & Sciences",
+                    "volumetitle": null,
+                    "citation": "<em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997",
+                    "publicationyear": 1997,
+                    "citationremarks": "Artist:Artist UnknownArtist Dates:Title:Portrait of a Woman with EarringsDate of Work:130-150 AD, circaCulture:Roman (Egypt, Antinoöpolis)Medium:Encaustic on woodImage Number:2AN12Description:22.5 cm x 35.3 cmGift of Dr. Denman W. Ross, 1923.60This encaustic painting offers a haunting image of the complex cultural amalgam that existed in Roman Egypt. When upper-class members of this society died, they were mummified in the traditional ancient Egyptian manner. Portraits, which stylistically derived from Greco-Roman painting, then covered the faces of the linen-swathed bodies. Based on comparisons to similar pompadour hairstyles seen in Hadrianic imperial busts, the Harvard panel painting can be rather precisely dated to A.D. 130–150. Although called a ‘Fayum portrait’ because most examples come from that fertile and prosperous area of Roman Egypt, this painting comes from Antinoöpolis, a city up the Nile from the Fayum region. The unusual shape of the panel’s frame conforms to the type of sarcophagi made in that city.(1)Most Fayum portraits during this period were made using an encaustic painting technique, although in subsequent centuries tempera became more popular. Pigment was mixed into wax and then applied to a gesso-primed wooden panel. These pigments were largely mineral-based, using both natural earths and special prepared compounds, and most of them were a continuation of practices from pharaonic-period artistic production.(2) The wax with which these different pigments were mixed is the key to the subtle effects that the artists were able to achieve. After gradual heating, the wax was applied to the surface; the painting could subsequently be modified by reheating the work. As this example shows, the process could be used to create a remarkable depth of modeling and give the skin the almost shimmering translucency of a well-executed oil painting. The facial forms of this second-century portrait are subtly modeled through the sensitive use of shading. The curvature of the neck and chin is an especially convincing passage. Part of the work’s effectiveness, though, is the interplay of varying degrees of abstraction; for instance, while the rather protruding ears are given a summary treatment, the earrings are finely detailed, capturing the glitter of the gold and the gloss of the pearl. Starkly offset by a white neckline, the intensely deep hues of blue, green, and fuchsia coloring her garments are typical of women’s dress; men are more often shown wearing simpler white garments.(3) The view that some of these mummy paintings are in fact portraits is supported by the almost startling vividness of this image, which seems a perceptive portrayal of an individual, and by their most common typology, the adult figure painted on a wooden board. Children and infants, for whom there probably would not have been time to have a regular portrait on wood made before their death, more often were buried with just a linen wrapping cloth.(4)It is both the social and climatological environment that created these images and enabled their preservation. The Fayum portraits offer an elusive glimpse of what may have been a thriving tradition of ancient panel painting thoughout the Mediterranean, now long-destroyed by the more variable climates of the rest of the region. The loss is a great one, for the existing Fayum portraits in a way serve as a bridge from modern sensibilities to antiquity. In fact, when they were first exhibited in the United States by the entrepreneur Theodor Graf at the Chicago World’s Columbian Exposition in 1893, they were decried as modern forgeries precisely because of their almost ‘impressionistic’ naturalism.(5) Later archaeological excavations demonstrated conclusively that Fayum portraits are instead the products of the ancient Roman aristocracy’s fascinating assimilation of long-standing Egyptian traditions.—Anne McClanan1.David L. Thompson, MUMMY PORTRAITS IN THE J. PAUL GETTY MUSEUM (Malibu, 1982), p. 5.2.These pigments are discussed in greater detail in Étienne Coche de la Ferté, LES PORTRAITS ROMANO-ÉGYPTIENS DU LOUVRE (Paris, 1952), p.23, and A.F. Shore, PORTRAIT PAINTING FROM ROMAN EGYPT (London, 1962), p. 21.3.Shore, PORTRAIT PAINTING, pp. 15–16.4.Some scholars also think that the earliest mummy paintings, those from the first century, are less standardized and are most likely to be direct portraits from a living model. Klaus Parlasca, MUMIENPORTRÄTS UND VERWANDTE DENKMÄLER (Wiesbaden, 1966), p. 74.5.Thompson, MUMMY PORTRAITS, p. 4.\r\n",
+                    "pagenumbers": null,
+                    "format": "Film/Video",
+                    "publicationid": 24519,
+                    "title": "Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum",
+                    "volumenumber": null,
+                    "publicationdate": "1997"
+                },
+                {
+                    "publicationplace": null,
+                    "volumetitle": "Kashima Bijutsu Kenkyu",
+                    "citation": "Rui Nakamura, <em>\"The Technique and Use of Encaustic in Ancient Roman Paintings : An Examination of One Example in the Fogg Museum with Reference to Pliny's Natural History\"</em> (2003)",
+                    "publicationyear": 2003,
+                    "citationremarks": null,
+                    "pagenumbers": "p. 409 - 418 (figs. 1a, 1b)",
+                    "format": "Book",
+                    "publicationid": 10103,
+                    "title": "\"The Technique and Use of Encaustic in Ancient Roman Paintings : An Examination of One Example in the Fogg Museum with Reference to Pliny's Natural History\"",
+                    "volumenumber": "Vol. 20",
+                    "publicationdate": "2003"
+                },
+                {
+                    "publicationplace": "Cambridge, MA",
+                    "volumetitle": null,
+                    "citation": "Ioli Kalavrezou, <em>Byzantine Women and Their World</em>, exh. cat., Harvard University Art Museums (Cambridge, MA, 2003)",
+                    "publicationyear": 2003,
+                    "citationremarks": null,
+                    "pagenumbers": "p. 240, no. 133, fig. 133.",
+                    "format": "Exhibition Catalogue",
+                    "publicationid": 10317,
+                    "title": "Byzantine Women and Their World",
+                    "volumenumber": null,
+                    "publicationdate": "2003"
+                },
+                {
+                    "publicationplace": null,
+                    "volumetitle": "Kashima Bijutsu Kenkyu",
+                    "citation": "Rui Nakamura, The Technique and Expression of Encaustic in Ancient Portrait Paintings: An Examination of One Example in the Fogg Museum with Reference to Pliny's Natural History, <em>Kashima Bijutsu Kenkyu</em>, 20, 409-418, 2003",
+                    "publicationyear": 2003,
+                    "citationremarks": null,
+                    "pagenumbers": "p. 418, ill.",
+                    "format": "Periodical",
+                    "publicationid": 19972,
+                    "title": "The Technique and Expression of Encaustic in Ancient Portrait Paintings: An Examination of One Example in the Fogg Museum with Reference to Pliny's Natural History",
+                    "volumenumber": "20, 409-418",
+                    "publicationdate": "2003"
+                },
+                {
+                    "publicationplace": "London",
+                    "volumetitle": null,
+                    "citation": "Thorsten Opper, <em>Hadrian: Empire and Conflict</em>, exh. cat., British Museum Press (London, 2008)",
+                    "publicationyear": 2008,
+                    "citationremarks": null,
+                    "pagenumbers": "fig. 182",
+                    "format": "Exhibition Catalogue",
+                    "publicationid": 22607,
+                    "title": "Hadrian: Empire and Conflict",
+                    "volumenumber": null,
+                    "publicationdate": "2008"
+                },
+                {
+                    "publicationplace": "Cambridge, Massachusetts",
+                    "volumetitle": null,
+                    "citation": "Stephan Wolohojian, ed., <em>Harvard Art Museum/Handbook</em> (Cambridge, Massachusetts, 2008)",
+                    "publicationyear": 2008,
+                    "citationremarks": null,
+                    "pagenumbers": null,
+                    "format": "Book",
+                    "publicationid": 17881,
+                    "title": "Harvard Art Museum/Handbook",
+                    "volumenumber": null,
+                    "publicationdate": "2008"
+                }
+            ],
+            "related": [
+                {
+                    "accesslevel": 1,
+                    "relationship": "Related work",
+                    "objectid": 344674
+                },
+                {
+                    "accesslevel": 1,
+                    "relationship": "Related work",
+                    "objectid": 292150
+                },
+                {
+                    "accesslevel": 1,
+                    "relationship": "Related work",
+                    "objectid": 292324
+                },
+                {
+                    "accesslevel": 1,
+                    "relationship": "Related work",
+                    "objectid": 291670
+                },
+                {
+                    "accesslevel": 1,
+                    "relationship": "Related work",
+                    "objectid": 291707
+                }
+            ],
+            "terms": {
+                "century": [
+                    {
+                        "name": "2nd century CE",
+                        "id": 37525644
+                    }
+                ],
+                "culture": [
+                    {
+                        "name": "Egyptian",
+                        "id": 37527318
+                    }
+                ],
+                "medium": [
+                    {
+                        "name": "paint",
+                        "id": 2042442
+                    },
+                    {
+                        "name": "encaustic paint",
+                        "id": 2042446
+                    }
+                ],
+                "place": [
+                    {
+                        "name": "Ancient & Byzantine World",
+                        "id": 2028220
+                    },
+                    {
+                        "name": "Africa",
+                        "id": 2028235
+                    },
+                    {
+                        "name": "Antinoopolis (Egypt)",
+                        "id": 2039408
+                    }
+                ],
+                "support": [
+                    {
+                        "name": "panel",
+                        "id": 2028202
+                    }
+                ],
+                "topic": [
+                    {
+                        "name": "Artstor Digital Library",
+                        "id": 2040173
+                    },
+                    {
+                        "name": "Google Art Project",
+                        "id": 2040174
+                    }
+                ]
+            },
+            "titles": [
+                {
+                    "titletype": "Title",
+                    "titleid": 801650,
+                    "displayorder": 1,
+                    "title": "Portrait of a woman"
+                }
+            ],
+            "title": "Portrait of a woman",
+            "worktypes": [
+                {
+                    "worktypeid": "253",
+                    "worktype": "painting"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/219609",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "content-length": "20667",
+            "content-type": "application/json; charset=utf-8"
+        },
+        "config": {
+            "transitional": {
+                "silentJSONParsing": true,
+                "forcedJSONParsing": true,
+                "clarifyTimeoutError": false
+            },
+            "adapter": [
+                "xhr",
+                "http"
+            ],
+            "transformRequest": [
+                null
+            ],
+            "transformResponse": [
+                null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+                "Accept": "application/json, text/plain, */*"
+            },
+            "method": "get",
+            "url": "https://api.harvardartmuseums.org/object/219609?apikey=46570eeb-b237-41b5-b920-5a00c8ef6799"
+        },
+        "request": {}
+    },
+    {
+        "data": {
+            "id": 253506,
+            "objectid": 253506,
+            "objectnumber": "M20227",
+            "accessionyear": null,
+            "dated": "1895",
+            "datebegin": 1895,
+            "dateend": 1895,
+            "classification": "Prints",
+            "classificationid": 23,
+            "medium": "Lithograph printed in black ink on gray-green wove paper mounted by the artist to coarse brown paper",
+            "technique": "Lithograph",
+            "techniqueid": 136,
+            "period": null,
+            "periodid": null,
+            "century": "19th century",
+            "culture": "Norwegian",
+            "style": null,
+            "signed": null,
+            "state": "i/vii",
+            "edition": null,
+            "standardreferencenumber": "Woll 39A, Schiefler 33 Aa",
+            "dimensions": "sheet: 59.2 x 43.6 cm (23 5/16 x 17 3/16 in.)\r\nmount: 71 x 67 cm (27 15/16 x 26 3/8 in.)",
+            "copyright": "© The Munch Museum / The Munch-Ellingsen Group / Artists Rights Society (ARS), New York",
+            "creditline": "Harvard Art Museums/Fogg Museum, Purchase through the generosity of Lynn and Philip A. Straus, Class of 1937",
+            "department": "Department of Prints",
+            "division": "European and American Art",
+            "contact": "am_europeanamerican@harvard.edu",
+            "description": null,
+            "provenance": "[Kaare Bertsen A/S, Oslo, 1983].",
+            "commentary": null,
+            "labeltext": null,
+            "imagecount": 1,
+            "mediacount": 0,
+            "colorcount": 8,
+            "markscount": 2,
+            "peoplecount": 1,
+            "titlescount": 2,
+            "publicationcount": 2,
+            "exhibitioncount": 2,
+            "contextualtextcount": 0,
+            "groupcount": 1,
+            "relatedcount": 1,
+            "totalpageviews": 1495,
+            "totaluniquepageviews": 1217,
+            "dateoffirstpageview": "2009-08-14",
+            "dateoflastpageview": "2023-04-11",
+            "verificationlevel": 3,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "imagepermissionlevel": 1,
+            "lendingpermissionlevel": 0,
+            "accesslevel": 1,
+            "accessionmethod": "Purchase",
+            "rank": 214,
+            "url": "https://www.harvardartmuseums.org/collections/object/253506",
+            "lastupdate": "2023-04-14T05:51:40-0400",
+            "colors": [
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.3124924924924925,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#e1c896",
+                    "spectrum": "#ed765a",
+                    "hue": "Yellow",
+                    "percent": 0.2786786786786787,
+                    "css3": "#deb887"
+                },
+                {
+                    "color": "#c8af7d",
+                    "spectrum": "#e9715f",
+                    "hue": "Brown",
+                    "percent": 0.09135135135135135,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#af9664",
+                    "spectrum": "#e9715f",
+                    "hue": "Yellow",
+                    "percent": 0.07813813813813814,
+                    "css3": "#bdb76b"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.06726726726726727,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b3232",
+                    "spectrum": "#4ab851",
+                    "hue": "Red",
+                    "percent": 0.05927927927927928,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.058258258258258255,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#644b32",
+                    "spectrum": "#59ba4a",
+                    "hue": "Brown",
+                    "percent": 0.05453453453453454,
+                    "css3": "#556b2f"
+                }
+            ],
+            "exhibitions": [
+                {
+                    "begindate": "1983-10-06",
+                    "enddate": "1984-03-25",
+                    "citation": "<em>Edvard Munch: Master Printmaker</em>, Harvard University Art Museums, Busch-Reisinger Museum, 10/06/1983 - 11/27/1983; Neuberger Museum of Art, Purchase, 01/29/1984 - 03/25/1984",
+                    "exhibitionid": 4150,
+                    "title": "Edvard Munch: Master Printmaker"
+                },
+                {
+                    "begindate": "2014-11-16",
+                    "enddate": "2050-01-01",
+                    "citation": "<em>32Q: 2700 Impressionism</em>, Harvard Art Museums, Cambridge, 08/11/2016 - 03/16/2017",
+                    "exhibitionid": 4585,
+                    "title": "32Q: 2700 Impressionism"
+                }
+            ],
+            "groupings": [
+                {
+                    "groupid": 2039923,
+                    "name": "Collection Highlights"
+                }
+            ],
+            "images": [],
+            "primaryimageurl": null,
+            "marks": [
+                {
+                    "text": "lower margin of mounting paper below the right corner of the printing sheet, graphite: Edv Munch 1897",
+                    "type": "inscription"
+                },
+                {
+                    "text": "lower margin of mounting paper below and to the left of the left corner of the printing sheet, red stamp: H S [monogram; Heinrich Stinnes (Lugt 1376a)]",
+                    "type": "collector's mark"
+                }
+            ],
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Loiten, Norway",
+                    "gender": "male",
+                    "displaydate": "1863 - 1944",
+                    "prefix": null,
+                    "culture": "Norwegian",
+                    "displayname": "Edvard Munch",
+                    "alphasort": "Munch, Edvard",
+                    "name": "Edvard Munch",
+                    "personid": 27736,
+                    "deathplace": "Ekely, Norway",
+                    "displayorder": 1
+                }
+            ],
+            "publications": [
+                {
+                    "publicationplace": "Cambridge and New York",
+                    "volumetitle": null,
+                    "citation": "Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986)",
+                    "publicationyear": 1986,
+                    "citationremarks": null,
+                    "pagenumbers": "no. 390, p. 326, repr.",
+                    "format": "Book",
+                    "publicationid": 9088,
+                    "title": "Harvard University Art Museums: A Guide to the Collections",
+                    "volumenumber": null,
+                    "publicationdate": "1986"
+                },
+                {
+                    "publicationplace": "London",
+                    "volumetitle": null,
+                    "citation": "Giulia Bartrum, <em>Munch and his World: Graphic Arts and the Avant-garde in Paris and Berlin</em>, Trustees of the British Museum (London, 2022)",
+                    "publicationyear": 2022,
+                    "citationremarks": null,
+                    "pagenumbers": "pp. 8-9, repr. as fig. 7 on p. 8 [not Harvard impression, related bibliography]",
+                    "format": "Book",
+                    "publicationid": 26227,
+                    "title": "Munch and his World: Graphic Arts and the Avant-garde in Paris and Berlin",
+                    "volumenumber": null,
+                    "publicationdate": "2022"
+                }
+            ],
+            "related": [
+                {
+                    "accesslevel": 1,
+                    "relationship": "See Also",
+                    "objectid": 253526
+                }
+            ],
+            "terms": {
+                "century": [
+                    {
+                        "name": "19th century",
+                        "id": 37525806
+                    }
+                ],
+                "culture": [
+                    {
+                        "name": "Norwegian",
+                        "id": 37528236
+                    }
+                ],
+                "support": [
+                    {
+                        "name": "paper",
+                        "id": 2028173
+                    }
+                ]
+            },
+            "titles": [
+                {
+                    "titletype": "Title",
+                    "titleid": 482445,
+                    "displayorder": 1,
+                    "title": "Madonna"
+                },
+                {
+                    "titletype": "Series/Book Title",
+                    "titleid": 355480,
+                    "displayorder": 2,
+                    "title": "The Mirror"
+                }
+            ],
+            "title": "Madonna",
+            "worktypes": [
+                {
+                    "worktypeid": "290",
+                    "worktype": "print"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/253506",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "content-length": "5482",
+            "content-type": "application/json; charset=utf-8"
+        },
+        "config": {
+            "transitional": {
+                "silentJSONParsing": true,
+                "forcedJSONParsing": true,
+                "clarifyTimeoutError": false
+            },
+            "adapter": [
+                "xhr",
+                "http"
+            ],
+            "transformRequest": [
+                null
+            ],
+            "transformResponse": [
+                null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+                "Accept": "application/json, text/plain, */*"
+            },
+            "method": "get",
+            "url": "https://api.harvardartmuseums.org/object/253506?apikey=46570eeb-b237-41b5-b920-5a00c8ef6799"
+        },
+        "request": {}
+    },
+    {
+        "data": {
+            "id": 212300,
+            "objectid": 212300,
+            "objectnumber": "P1997.5.2",
+            "accessionyear": 1997,
+            "dated": "1993",
+            "datebegin": 1993,
+            "dateend": 1993,
+            "classification": "Photographs",
+            "classificationid": 17,
+            "medium": null,
+            "technique": "Gelatin silver print",
+            "techniqueid": 123,
+            "period": null,
+            "periodid": null,
+            "century": "20th century",
+            "culture": "American",
+            "style": null,
+            "signed": null,
+            "state": null,
+            "edition": null,
+            "standardreferencenumber": null,
+            "dimensions": "sight: 93.2 x 75.8 cm (36 11/16 x 29 13/16 in.)",
+            "copyright": "© Gary Schneider",
+            "creditline": "Harvard Art Museums/Fogg Museum, Davis Pratt Fund; Richard and Ronay Menschel Fund for the Acquisition of Photographs",
+            "department": "Department of Photographs",
+            "division": "Modern and Contemporary Art",
+            "contact": "am_moderncontemporary@harvard.edu",
+            "description": null,
+            "provenance": "Howard Yezerski Gallery, Boston, Massachusetts, from the artist, sold to the Harvard University Art Museums, 1997.\r\n",
+            "commentary": null,
+            "labeltext": null,
+            "imagecount": 1,
+            "mediacount": 0,
+            "colorcount": 10,
+            "markscount": 0,
+            "peoplecount": 1,
+            "titlescount": 1,
+            "publicationcount": 1,
+            "exhibitioncount": 1,
+            "contextualtextcount": 0,
+            "groupcount": 1,
+            "relatedcount": 0,
+            "totalpageviews": 1096,
+            "totaluniquepageviews": 903,
+            "dateoffirstpageview": "2009-08-14",
+            "dateoflastpageview": "2023-04-12",
+            "verificationlevel": 3,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "imagepermissionlevel": 1,
+            "lendingpermissionlevel": 0,
+            "accesslevel": 1,
+            "accessionmethod": "Purchase",
+            "rank": 258,
+            "url": "https://www.harvardartmuseums.org/collections/object/212300",
+            "lastupdate": "2023-04-14T05:48:30-0400",
+            "colors": [
+                {
+                    "color": "#190000",
+                    "spectrum": "#2eb45d",
+                    "hue": "Black",
+                    "percent": 0.22618279569892474,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#7d9696",
+                    "spectrum": "#7069af",
+                    "hue": "Green",
+                    "percent": 0.20688172043010752,
+                    "css3": "#778899"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.14596774193548387,
+                    "css3": "#000000"
+                },
+                {
+                    "color": "#96afaf",
+                    "spectrum": "#7b65ad",
+                    "hue": "Blue",
+                    "percent": 0.12204301075268817,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#647d7d",
+                    "spectrum": "#6c6ab0",
+                    "hue": "Blue",
+                    "percent": 0.07064516129032258,
+                    "css3": "#708090"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.05887096774193548,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#c8c8c8",
+                    "spectrum": "#8c5fa8",
+                    "hue": "Grey",
+                    "percent": 0.04795698924731183,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#e1e1e1",
+                    "spectrum": "#955ba5",
+                    "hue": "Grey",
+                    "percent": 0.04505376344086021,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.04268817204301075,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#4b6464",
+                    "spectrum": "#5e6db3",
+                    "hue": "Blue",
+                    "percent": 0.033709677419354836,
+                    "css3": "#696969"
+                }
+            ],
+            "exhibitions": [
+                {
+                    "begindate": "1997-07-19",
+                    "enddate": "1997-10-12",
+                    "citation": "<em>About Face: Artist's Portraits in Photography</em>, Harvard University Art Museums, Fogg Art Museum, 07/19/1997 - 10/12/1997",
+                    "exhibitionid": 5288,
+                    "title": "About Face: Artist's Portraits in Photography"
+                }
+            ],
+            "groupings": [
+                {
+                    "groupid": 2039923,
+                    "name": "Collection Highlights"
+                }
+            ],
+            "images": [],
+            "primaryimageurl": null,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "East London, South Africa",
+                    "gender": "male",
+                    "displaydate": "born 1954",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "Gary Schneider",
+                    "alphasort": "Schneider, Gary",
+                    "name": "Gary Schneider",
+                    "personid": 18077,
+                    "deathplace": null,
+                    "displayorder": 1
+                }
+            ],
+            "places": [
+                {
+                    "displayname": "North America, United States, New York State",
+                    "confidence": null,
+                    "placeid": 2028275,
+                    "type": "Creation Place"
+                }
+            ],
+            "publications": [
+                {
+                    "publicationplace": "Cambridge, Mass.",
+                    "volumetitle": "Harvard University Art Museums Bulletin",
+                    "citation": "James Cuno, ed., <em>A Decade of Collecting: Recent Acquisitions by the Harvard University Art Museums</em>, Harvard University Art Museums (Cambridge, Mass., Spring 2000)",
+                    "publicationyear": 2000,
+                    "citationremarks": null,
+                    "pagenumbers": "pp. 96-97, ill.",
+                    "format": "Book",
+                    "publicationid": 2406,
+                    "title": "A Decade of Collecting: Recent Acquisitions by the Harvard University Art Museums",
+                    "volumenumber": "Vol. 7, No. 2",
+                    "publicationdate": "Spring 2000"
+                }
+            ],
+            "terms": {
+                "century": [
+                    {
+                        "name": "20th century",
+                        "id": 37525815
+                    }
+                ],
+                "culture": [
+                    {
+                        "name": "American",
+                        "id": 37526778
+                    }
+                ],
+                "place": [
+                    {
+                        "name": "North America",
+                        "id": 2028212
+                    },
+                    {
+                        "name": "United States",
+                        "id": 2028213
+                    },
+                    {
+                        "name": "New York State",
+                        "id": 2028275
+                    }
+                ]
+            },
+            "titles": [
+                {
+                    "titletype": "Title",
+                    "titleid": 474780,
+                    "displayorder": 1,
+                    "title": "Meditations (panel 2)"
+                }
+            ],
+            "title": "Meditations (panel 2)",
+            "worktypes": [
+                {
+                    "worktypeid": "271",
+                    "worktype": "photograph"
+                }
+            ],
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/212300",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        "status": 200,
+        "statusText": "OK",
+        "headers": {
+            "content-length": "4593",
+            "content-type": "application/json; charset=utf-8"
+        },
+        "config": {
+            "transitional": {
+                "silentJSONParsing": true,
+                "forcedJSONParsing": true,
+                "clarifyTimeoutError": false
+            },
+            "adapter": [
+                "xhr",
+                "http"
+            ],
+            "transformRequest": [
+                null
+            ],
+            "transformResponse": [
+                null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+                "Accept": "application/json, text/plain, */*"
+            },
+            "method": "get",
+            "url": "https://api.harvardartmuseums.org/object/212300?apikey=46570eeb-b237-41b5-b920-5a00c8ef6799"
+        },
+        "request": {}
+    }
+]

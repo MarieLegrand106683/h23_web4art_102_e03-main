@@ -1,0 +1,55 @@
+/// ---------------------------
+// Fichier comportant le code SCSS de la fiche des oeuvres affichées.
+/// ----------------------------------------
+/// Nom : Dalyane Bélanger
+/// Matricule : 1678345
+/// Description : Code SCSS pour la forme des fiches.
+/// -----------------------------------------
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Fiche principale englobant les données principales pour l'exposition
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+div.fiche-expo{
+    @include setFlex(column, center, center);
+    width: 100%;
+    border: 1px #000 solid;
+    margin: 32px 0;
+    padding : 32px;
+    background-color: var(--blanc);
+    
+    @include breakpoint-min(1400){
+        @include setFlex(row, center,center);
+    }
+
+    // - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    // Wrap qui va être clôné
+    // - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    & > div.wrapExpo{
+        @include setFlex(column, center, center);
+        
+        @include breakpoint-min(1400){
+           width: 40%;
+        }
+    
+
+        // - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        // Informations
+        // - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+        & div.wrapImg{
+            @include setFlex(column, center, center);
+            @include resetBox;
+        }
+
+        & div.infoExpo{
+            @include resetBox;
+            margin-top: 16px;
+
+            @include breakpoint-min(1400){
+                color: var(--rouge-fonce);
+            }
+        }
+    } 
+}

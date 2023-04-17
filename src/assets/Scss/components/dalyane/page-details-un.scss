@@ -1,0 +1,197 @@
+/// ---------------------------
+// Fichier comportant le code SCSS de la page des détails avec l'API.
+/// ----------------------------------------
+/// Nom : Dalyane Bélanger
+/// Matricule : 1678345
+/// Description : Code SCSS pour la forme d'une oeuvre en particulier.
+/// -----------------------------------------
+div.details {
+    margin: 5px 10px;
+    background-color: var(--noir);
+
+    & div.fiche-exposition {
+        @include setFlex(column,center,center);
+
+        @include breakpoint-min(768){
+            padding-top: 40px;
+        }
+    
+        & > div.oeuvre {
+            padding: 40px;
+            
+            & div.fiche {
+                @include breakpoint-min(1024){
+                    @include setFlex(row,center,center);
+                }
+            }
+            
+            @include breakpoint-min(576){
+                border: 2px solid var(--rouge-fonce);
+                padding: 15px;
+                box-shadow: 10px 10px var(--noir);
+                margin-bottom: 10px;
+            }
+            @include breakpoint-min(768){
+                border: 4px dashed var(--bleu-pale);
+                padding: 40px 90px;
+                box-shadow: 10px 10px var(--noir);
+                background-color: rgba($color: #ffffff, $alpha: 0.1);
+                margin-bottom: 30px;
+            }
+            @include breakpoint-min(1024){
+                border: none;
+                padding: 20px;
+                box-shadow: 10px 10px var(--bleu-fonce);
+                margin-bottom: 50px;
+            }
+        }
+    
+        & div.oeuvreImg {
+            width: 100%;
+            @include setFlex(column,center,center);
+    
+            @include breakpoint-min(576){
+                padding: 20px 5px;
+            }
+            @include breakpoint-min(768){
+                padding: 20px 2px;
+            }
+            @include breakpoint-min(1024){
+                padding: 2px;
+            }
+    
+            & img {
+                width: 100%;
+    
+                @include breakpoint-min(576){
+                    width: 400px;
+                    height: 60vh;
+                }
+                @include breakpoint-min(768){
+                    width: 500px;
+                    height: 75vh;
+                }
+                
+    
+            }
+        }  
+        & div.oeuvre {
+    
+           & div.information {
+            @include setFlex(column,center,center);
+    
+            & p:first-of-type {
+                padding: 20px 5px;
+                width: 100%;
+                font-size: 1.5em;
+                text-align: center;
+                font-family: 'Shantell Sans', sans-serif;
+                color: var(--blanc);
+                background-color: var(--rouge-fonce);
+    
+                @include breakpoint-min(576){
+                    padding: 40px 5px;
+                    border-bottom: 10px solid #ffffff;
+                }
+                @include breakpoint-min(768){
+                    width: 100%;
+                    padding: 50px 5px;
+                    font-size: 2em;
+                    background-color: var(--bleu-fonce);
+                }
+                @include breakpoint-min(1024){
+                    padding: 10px 90px;
+                    font-size: 2.1em;
+                    background-color: var(--bleu-fonce);
+                    border-bottom: 3px solid #ffffff;
+                }
+            }
+            & div.description, div.division, div.dimensions, div.technique, div.periode, div.siecle {
+               width: 100%;
+
+               @include breakpoint-min(576){
+                width: 80%;
+               }
+
+               @include breakpoint-min(768){
+                width: 95%;
+               }
+               @include breakpoint-min(1024){
+                width: 100%;
+               }
+            }
+            & div.description p, div.division p, div.dimensions p, div.technique p, div.periode p, div.siecle p{
+                font-size: 1em;
+                text-align: left;
+                font-family: 'Oxygen';
+                font-weight: 200;
+                background-color: rgba($color: #ffffff, $alpha: 0.1);
+                color: var(--blanc);
+
+                @include breakpoint-min(576){
+                    background-color: rgba($color: #ffffff, $alpha: 0);
+                    border-bottom: none;
+                    margin: 5px;
+                }
+                @include breakpoint-min(1024){
+                    font-size: 0.8em;
+                }
+                
+            }
+            & h3 {
+                padding: 10px;
+                border-bottom: 4px solid var(--blanc);
+                text-align: left;
+                font-size: 1.5em;
+                font-weight: 600;
+                font-family: 'Shantell Sans';
+                color: var(--bleu-pale);
+
+                @include breakpoint-min(1024){
+                    padding: 5px;
+                    font-size: 1.2em;
+                    font-weight: 600;
+                    text-align: left;
+                    border-bottom: 2px solid rgba($color: #ffffff, $alpha: 0.1);
+                }
+            }
+            & a {
+                bottom: 0;
+                padding: 20px 5px;
+                width: 100%;
+                text-align: center;
+                font-family: 'Oxygen';
+                font-weight: 800;
+                text-decoration: none;
+                background-color: var(--bleu-pale);
+                color: var(--noir);
+    
+                @include breakpoint-min(576){
+                    bottom: 0;
+                    padding: 30px 5px;
+                    width: 100%;
+                    font-size: 1.5em;
+                    text-align: center;
+                    
+                }
+                @include breakpoint-min(768){
+                    bottom: 0;
+                    padding: 20px 5px;
+                    width: 100%;
+                    text-align: center;
+                    
+                }
+                @include breakpoint-min(1024){
+                    bottom: 0;
+                    padding: 20px 15px;
+                    width: 100%;
+                    border-radius: 8px;
+                    font-size: 1.1em;
+                    text-align: center;
+                    
+                }
+            }
+           } 
+        } 
+    }
+}

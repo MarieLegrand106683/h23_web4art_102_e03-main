@@ -1,0 +1,165 @@
+// ---------------------------
+// Fichier SCSS du header du projet.
+/// ----------------------------------------
+/// Nom : Dalyane Bélanger
+/// Matricule : 1678345
+/// Description : Création de la mise en forme générale du header.
+/// -----------------------------------------
+/// Nom : 
+/// Matricule : 
+/// Description :
+/// ------------------------------------------
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Header
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+header{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+
+    @include breakpoint-min(1200){
+        @include setFlex(column, center, center);
+        position: relative;
+        width: 100%;
+        height: 35vh;
+        text-align: center;
+        border-bottom: 2px solid var(--blanc);
+        background-color: var(--bleu-pale);
+    }
+
+    // - - - - - - - - - - - - - - - - - - - - - - - - - - -
+   // Navigation principale
+   // - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    
+
+    & nav{
+        height: 50px;
+        background-color: var(--bleu-pale);
+        margin-bottom: 30px;
+
+        @include breakpoint-min(768){
+            height: 75px;
+            width: 100%;
+        }
+
+        @include breakpoint-min(1200){
+            @include setFlex(row, center, center);
+            width: 100%;
+            height: 50px
+        }
+
+        @include breakpoint-min(1400){
+            @include setFlex(row, center, center);
+            width: 100%;
+            height: 50px
+        }
+        
+    }
+
+    & ul{
+        @include setFlex(row, center, center);
+
+        @include breakpoint-min(1200){
+            @include setFlex(row, center, center);
+            width: 100%;
+            font-size: 1.2em;
+            background-color: var(--blanc);
+            border: 1px solid lightslategray;
+        }
+        & div > a {
+            position: relative;
+        }
+        
+        & div > a > img{
+            width: 30px;
+    
+            @include breakpoint-min(1200){
+                display: none;
+            }
+                
+            
+        }
+
+
+        & div > img {
+            width: 100px;
+
+            @include breakpoint-min(768){
+                padding: 10px;
+                width: 120px;
+            }
+            @include breakpoint-min(1200){
+                width: 100px;
+            }
+            
+            
+        }
+
+        & li {
+            text-align: center;
+            list-style: none;
+            display: none;
+
+            @include breakpoint-min(1200){
+                display: contents;
+
+                &:nth-of-type(5){
+                    color: var(--blanc);
+                    background-color: var(--bleu-pale);
+                }
+                &:nth-of-type(5) :hover {
+                    color: var(--blanc);
+                    background-color: grey;
+                }
+    
+                & a {
+                    display: block;
+                    padding: 1em 4em;
+                    text-decoration: none;
+                    color: var(--noir);
+                }
+                
+                & a:hover {
+                    color: white;
+                    background-color: var(--bleu-pale);
+                }
+            }
+
+
+
+            
+        }
+    }
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Bouton de réservation
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    & div.btn-reserver{
+        display: none;
+
+        @include breakpoint-min(1200){
+            display: contents;
+            position: absolute;
+            top: 500px;
+            right: 650px;
+            z-index: 20;
+
+            & a {
+                text-decoration: none;
+                padding: 1.5em 2em;
+                color: var(--blanc);
+                background-color: grey;
+            }
+
+            & a:hover {
+                color: var(noir);
+                background-color: var(--bleu-pale);
+            }
+        }
+        
+
+    }
+}

@@ -1,0 +1,56 @@
+/// ---------------------------
+// Fichier comportant le code SCSS du composant qui sera animé avec anime.js.
+/// ----------------------------------------
+/// Nom : Dalyane Bélanger
+/// Matricule : 1678345
+/// Description : Code SCSS.
+/// -----------------------------------------
+
+div.animation-carre {
+    @include setFlex(row, center,start);
+    width: 400px;
+    height: 125px;
+    padding: 0 134px;
+    margin: 0 auto;
+    position: relative;
+    
+    & div.carre1{
+       width: 100px;
+       height: 100px;
+       opacity: 0.2;
+       position: absolute;
+       left: 50px;
+       top: 30px;
+       background-color: var(--gris-pale);
+    }
+    & div.carre2{
+        position: absolute;
+        left: 100px;
+        top: 50px;
+        width: 100px;
+       height: 100px;
+        opacity: 0.4;
+        background-color: var(--rouge-pale);
+    }
+    & div.carre3{
+        position: absolute;
+        left: 140px;
+        top: 70px;
+        width: 100px;
+        height: 100px;
+        opacity: 0.6;
+        background-color: var(--bleu-pale);
+    }
+    & img {
+        margin: 35px 10px;
+        width: 100%;
+        z-index: 50;
+        padding-bottom: 30px;
+        border-bottom: 2px solid black;
+
+        @include breakpoint-min(1024){
+            border-bottom: 2px solid var(--bleu-fonce);
+
+        }
+    }
+}

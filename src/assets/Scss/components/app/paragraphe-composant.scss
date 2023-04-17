@@ -1,0 +1,39 @@
+/// ---------------------------
+// Fichier comportant le code SCSS des composants des paragraphes.
+/// ----------------------------------------
+/// Nom : Dalyane Bélanger
+/// Matricule : 1678345
+/// Description : Code SCSS pour la mise en forme du paragraphe.
+/// -----------------------------------------
+div.contenu{
+
+    & p {
+        text-align: center;
+        padding: 10px 30px;
+        font-family: 'Oxygen',sans-serif;
+        font-weight: 800;
+        color: var(--noir);
+
+        @include breakpoint-min(576){
+            padding: 10px 40px;
+            font-size: 1em;
+        }
+
+        @include breakpoint-min(768){
+            padding: 0 auto;
+            text-align: left;
+            margin-top: 20px;
+            font-size: 1.2em;
+            font-weight: 400;
+        }
+
+        @include breakpoint-min(1400){
+            padding: 0 auto;
+            text-align: left;
+            margin-top: 20px;
+            font-size: 0.9em;
+            font-weight: 400;
+            color: var(--blanc);
+        }
+    }
+}

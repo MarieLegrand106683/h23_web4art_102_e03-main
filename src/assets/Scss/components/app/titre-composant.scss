@@ -1,0 +1,53 @@
+/// ---------------------------
+// Fichier comportant le code SCSS des composants de titre.
+/// ----------------------------------------
+/// Nom : Dalyane Bélanger
+/// Matricule : 1678345
+/// Description : Code SCSS pour la forme des fiches.
+/// -----------------------------------------
+
+div.texte{
+    margin: 30px 5px 10px 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: var(--rouge-fonce);
+    box-shadow: 2px 4px var(--blanc);
+
+    
+
+    @include breakpoint-min(768){
+        width: 65%;
+        margin: 5px 10px;
+        padding: 20px;
+        text-align: left;
+        background-color: var(--rouge-fonce);
+        box-shadow: 6px 6px var(--noir);
+    }
+
+    @include breakpoint-min(1200){
+        width: 40%;
+        margin: 5px 10px;
+        padding: 20px;
+        text-align: left;
+        background-color: var(--rouge-fonce);
+        box-shadow: 6px 6px var(--blanc);
+
+    }
+
+    & h2{
+        font-family: 'Shantell Sans', sans-serif;
+        color: var(--blanc);
+
+        @include breakpoint-min(576){
+            font-size: 1.2em;
+        }
+
+        @include breakpoint-min(720){
+            font-size: 1.6em;
+        }
+
+        @include breakpoint-min(1200){
+            font-size: 1.8em;
+        }
+    }
+}

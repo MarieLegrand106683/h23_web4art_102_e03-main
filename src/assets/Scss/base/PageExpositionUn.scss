@@ -1,0 +1,71 @@
+/// ---------------------------
+// Fichier comportant le SCSS de la page exposition un.
+/// ----------------------------------------
+/// Nom : Dalyane Bélanger
+/// Matricule : 1678345
+/// Description : 
+/// -----------------------------------------
+
+main{
+    
+    & div.contenu{
+        background-color: rgba($color: #924735, $alpha: 0.2);
+
+        @include breakpoint-min(576){
+            background-color: rgba($color: #924735, $alpha: 0.4);
+        }
+
+        @include breakpoint-min(768){
+            background-color: rgba($color: #924735, $alpha: 0.6);
+        }
+        @include breakpoint-min(1024){
+            @include setFlex(column,center,start);
+            background-color: rgba($color: #000, $alpha: 0.8);
+        }
+
+        & div.logoExpo{
+            @include setFlex(column,center,center);
+            width: 100%;
+            background-color: var(--beige);
+
+            @include breakpoint-min(576){
+                height: 20vh;
+                padding: 15px 10px;
+            }
+
+            @include breakpoint-min(768){
+                height: 35vh;
+                padding: 20px 20px;
+            }
+            @include breakpoint-min(1024){
+                height: 15vh;
+                padding: 5px;
+            }
+
+            & img{
+                width: 100%;
+                height: 20vh;
+                z-index: 50;
+                padding: 15px 10px;
+
+                @include breakpoint-min(576){
+                    height: 20vh;
+                    padding: 15px 5px;
+                }
+                @include breakpoint-min(768){
+                    height: 25vh;
+                    padding: 15px 5px;
+                }
+                @include breakpoint-min(1024){
+                    height: 15vh;
+                    
+                }
+                
+
+                
+
+            }
+        }
+
+    }
+}

@@ -1,0 +1,116 @@
+// ---------------------------
+// Fichier SCSS du footer du projet.
+/// ----------------------------------------
+/// Nom : Dalyane Bélanger
+/// Matricule : 1678345
+/// Description : Création de la mise en forme générale du footer.
+/// -----------------------------------------
+/// Nom : 
+/// Matricule : 
+/// Description :
+/// ------------------------------------------
+
+
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Footer
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+footer{
+    text-align: center;
+    border-top: 2px solid var(--blanc);
+    background-color: var(--noir);
+    width: 100%;
+
+    @include breakpoint-min(768){}
+
+    @include breakpoint-min(1200){
+        @include setFlex(column, center, center);
+            position: relative;
+            width: 100%;
+            height: 50vh;
+            
+    }
+
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Menu principal du footer
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    & nav.menu{
+        @include setFlex(row, center, center);
+        width: 100%;
+
+        & ul {
+            @include setFlex(column,center,center);
+            width: 100%;
+            font-size: 1.2em;
+
+            @include breakpoint-min(1200){
+                @include setFlex(row,center,center);
+            }
+
+            
+
+            & div > img {
+                width: 100px;
+                margin: 10px 10px;
+            }
+            & li {
+                width: 100%;
+                text-align: center;
+                list-style: none;
+                padding: 1em 2em;
+
+                & a {
+                    display: block;
+                    padding: 1em 1.5em;
+                    font-size: 1.2em;
+                    text-decoration: none;
+                    color: var(--blanc);
+                }
+                
+                & a:hover {
+                    font-weight: 700;
+                    color: var(--noir);
+                    background-color: var(--blanc);
+                    
+                }
+            
+                
+
+                // - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                // Menu secondaire du footer
+                // - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                & > ul {
+                    @include setFlex(column,center,center);
+
+                    & li > a {
+                        display: none;
+
+                        @include breakpoint-min(768){
+                            display: contents;
+                            padding: 0 1em;
+                            font-size: 0.7em;
+                            text-align: center;
+                        }
+
+                        @include breakpoint-min(1200){
+                            padding: 0 1em;
+                            font-size: 0.5em;
+                            text-align: center;
+                            color: var(--blanc);
+                        }
+                        
+                    }
+                    & li > a:hover {
+                        color: var(--bleu-pale);
+                        background-color: rgba($color: #000000, $alpha: 0);
+                    }
+                }
+    
+                
+            }
+        }
+        
+    }
+}

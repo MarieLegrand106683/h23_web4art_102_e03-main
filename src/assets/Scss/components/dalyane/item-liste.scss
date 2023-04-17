@@ -1,0 +1,161 @@
+/// ---------------------------
+// Fichier comportant le code SCSS des oeuvres affichées avec l'API.
+/// ----------------------------------------
+/// Nom : Dalyane Bélanger
+/// Matricule : 1678345
+/// Description : Code SCSS pour la forme des fiches.
+/// -----------------------------------------
+div.conteneur {
+
+    @include setFlex(column,center,center);
+
+    @include breakpoint-min(1024){
+        @include setFlex(row,space-evenly,center);
+        flex-wrap: wrap;
+        margin: 20px 5px;
+    }
+
+    & div.fiche-interface {
+        @include setFlex(column,center,center);
+    
+        
+    
+        & div.fiche-exposition {
+            @include setFlex(column,center,center);
+            margin: 50px 5px;
+    
+            
+    
+            & > div.oeuvre {
+
+                
+                @include breakpoint-min(576){
+                    border: 2px solid var(--rouge-fonce);
+                    padding: 5px;
+                    box-shadow: 10px 10px var(--noir);
+                }
+                @include breakpoint-min(768){
+                    border: 4px solid var(--rouge-fonce);
+                    padding: 15px 90px;
+                    box-shadow: 10px 10px var(--noir);
+                    background-color: var(--blanc);
+                }
+                @include breakpoint-min(1024){
+                    border: 2px solid var(--bleu-fonce);
+                    padding: 15px 40px;
+                    background-color: var(--blanc);
+                }
+            }
+    
+            & div.oeuvreImg {
+                width: 100%;
+    
+                @include breakpoint-min(576){
+                    padding: 5px;
+                }
+                @include breakpoint-min(768){
+                    padding: 2px;
+                }
+    
+                & img {
+                    width: 100%;
+    
+                    @include breakpoint-min(576){
+                        width: 400px;
+                        height: 60vh;
+                    }
+                    @include breakpoint-min(768){
+                        width: 350px;
+                        height: 55vh;
+                    }
+                    @include breakpoint-min(1024){
+                        width: 300px;
+                        height: 45vh;
+                    }
+    
+                }
+            }  
+            & div.oeuvre {
+    
+               & div.information {
+                @include setFlex(column,center,center);
+                position: relative;
+    
+                & p {
+                    padding: 20px 5px;
+                    width: 100%;
+                    font-size: 1.5em;
+                    text-align: center;
+                    font-family: 'Shantell Sans', sans-serif;
+                    color: var(--blanc);
+                    background-color: var(--rouge-fonce);
+
+                    
+    
+                    @include breakpoint-min(576){
+                        width: 75%;
+                        padding: 40px 5px;
+                    }
+                    @include breakpoint-min(768){
+                        width: 100%;
+                        padding: 50px 5px;
+                    }
+                    @include breakpoint-min(1024){
+                        width: 100%;
+                        padding: 10px 5px;
+                        font-weight: 600;
+                        color: var(--noir);
+                        background-color: rgba($color: #000000, $alpha: 0);
+                        border-bottom: 2px solid var(--rouge-pale);
+                    }
+                }
+                & a {
+                    position: absolute;
+                    top: 60px;
+                    margin-bottom: 20px;
+                    padding: 10px 5px;
+                    width: 60%;
+                    text-align: center;
+                    font-family: 'Oxygen';
+                    font-weight: 400;
+                    text-decoration: none;
+                    background-color: var(--noir);
+                    color: var(--blanc);
+
+                
+    
+                    @include breakpoint-min(576){
+                        position: absolute;
+                        top: 90px;
+                        margin-bottom: 5px;
+                        padding: 20px 5px;
+                        width: 40%;
+                    }
+                    @include breakpoint-min(768){
+                        position: absolute;
+                        top: 120px;
+                        margin-bottom: 5px;
+                        padding: 20px 10px;
+                        width: 60%;
+                    }
+                    @include breakpoint-min(1024){
+                        position: absolute;
+                        top: 90px;
+                        margin-bottom: 5px;
+                        padding: 20px 10px;
+                        width: 70%;
+                        background-color: var(--rouge-fonce);
+                    }
+                }
+                
+
+                
+            
+                
+               } 
+            } 
+        }
+    }
+
+
+}

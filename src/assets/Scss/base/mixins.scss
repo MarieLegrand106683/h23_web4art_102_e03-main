@@ -1,0 +1,51 @@
+/// ---------------------------
+// Fichier comportant les mixins du projet.
+/// ----------------------------------------
+/// Nom : Dalyane Bélanger
+/// Matricule : 1678345
+/// Description : 
+/// -----------------------------------------
+/// Nom : 
+/// Matricule : 
+/// Description :
+/// ------------------------------------------
+/// 
+
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Création du mixin FlexBox.
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+@mixin setFlex($direction, $justify, $align){
+    display: flex;
+    flex-direction: $direction;
+    justify-content: $justify;
+    align-items: $align;
+}
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Débugage.
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+@mixin debug {
+    border : 5px red solid;
+}
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Les breakpoints de Bootstrap
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+@mixin breakpoint-min($screen){
+    @media (min-width: #{$screen}px){
+        @content;
+    }
+ }
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// ResetBox au besoin
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+@mixin resetBox{
+    padding : 0;
+    margin: 0;
+}

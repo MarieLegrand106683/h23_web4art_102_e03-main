@@ -1,0 +1,36 @@
+/// ---------------------------
+// Fichier comportant les importations de la base du projet.
+/// ----------------------------------------
+/// Nom : Dalyane Bélanger
+/// Matricule : 1678345
+/// Description : Création des liens et commencement de la mise en forme du projet.
+/// -----------------------------------------
+/// Nom : 
+/// Matricule : 
+/// Description :
+/// ------------------------------------------
+/// 
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Importation composants de texte
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+@import 'app/titre-composant.scss';
+@import 'app/sous-titre-composant.scss';
+@import 'app/paragraphe-composant.scss';
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Importation composants généraux
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+@import 'header/header';
+@import 'footer/footer';
+
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Importation composants de l'exposition un
+// - - - - - - - - - - - - - - - - - - - - - - - - - - -
+@import 'dalyane/creation-composant.scss';
+@import 'dalyane/creation-sous-composant.scss';
+@import 'dalyane/fiche-exposition.scss';
+@import 'dalyane/item-liste.scss';
+@import 'dalyane/page-details-un.scss';
+@import 'dalyane/anime-composant.scss';
